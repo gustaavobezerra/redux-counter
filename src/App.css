@@ -1,0 +1,13 @@
+.App {
+  background-color: rgb(245, 245, 245);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 0;
+}
